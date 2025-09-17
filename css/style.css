@@ -33,7 +33,7 @@ nav a{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: underline;
     color: rgb(0, 0, 0);
 }
 
@@ -53,6 +53,9 @@ a:active{
     border-radius: 4px;
 }
 
+.sublinhado{
+    text-decoration: underline;
+}
 
 .foto-robo img{
     width: 360px;
